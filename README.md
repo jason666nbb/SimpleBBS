@@ -8,4 +8,4 @@
                 
 ### 2) Run it with python
 >#### And it should work.
->>If it does not, make sure you allowed it to access network.
+>>If it does not, make sure you allowed it to access network. (Firewall)
